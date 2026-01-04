@@ -1,0 +1,5 @@
+{
+  "name": "WordBattle - Chess.com Style",
+  "description": "A high-stakes word competition game with a UI/UX inspired by Chess.com, featuring real-time AI validation and competitive word chaining.",
+  "requestFramePermissions": []
+}
